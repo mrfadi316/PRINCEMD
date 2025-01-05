@@ -123,7 +123,7 @@ global.princeImg = [imagen1, imagen2]
 //Change to false to use the Bot from the same number as the Bot.
 global.isBaileysFail = false
 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/+923325779792' //contact
 //💌------------------------------------------💌
 
 
@@ -135,7 +135,7 @@ global.princebot = '🛡️FADI-𝘉𝘖𝘛-𝘔𝘋🛡️'
 global.packname = process.env.PACK_NAME
 global.author = 'Prince♥️' 
 global.princeig = 'https://www.instagram.com/mrfadi316' 
-global.princegp = 'https://whatsapp.com/channel/0029VatIItrD38CVaysgC42O'
+global.princegp = 'https://whatsapp.com/channel/0029VagMsjy5vKA5InUg2S10'
 global.menuvid = 'https://qu.ax/jyhXk.mp4'
 global.Princesc = 'https://github.com/mrfadi316/Branded-md' 
 global.princeyt = 'https://youtube.com/@mrfadi316'
